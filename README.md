@@ -1,3 +1,3 @@
 # README
 
-1. Complete Ruby on Rails development course
+1. First test repo Completed Ruby on Rails development course by Daniel Palacios
