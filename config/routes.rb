@@ -4,4 +4,7 @@ Rails.application.routes.draw do
   # Name the application controller to be used
   # To name a method inside a pound symbol is used
   root "pages#home"
+  # About page
+  get "about", to: "pages#about"
+
 end
